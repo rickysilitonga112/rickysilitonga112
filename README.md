@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rickysilitonga112
-- 👀 I’m interested in front end web programming
-- 🌱 I’m currently learning front end web programming
+- 👀 I’m interested in iOS and Flutter Development
+- 🌱 I’m currently learning iOS programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
