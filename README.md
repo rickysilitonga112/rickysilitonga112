@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @rickysilitonga112
-- 👀 I’m interested in iOS and Flutter Development
-- 🌱 I’m currently learning iOS programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ricky Silitonga
+- 👀 Currently work as iOS Developer
+- 💞️ I’m looking to collaborate on iOS Development
 
 <!---
 rickysilitonga112/rickysilitonga112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
